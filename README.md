@@ -28,7 +28,7 @@ git clone https://github.com/giwan-Sec/Calculator.git
 
 cd Calculator
 
-python kalkulator-sederhana.py
+python kalkulator\ sederhana.py
 
 
 (FOLLOW THE INSTRUCTIONS)
