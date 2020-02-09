@@ -1,3 +1,14 @@
+print(" ")
+print("   ____         __    __          _____   ___     __  ")
+print("  /    T       |  T__T  T        / ___/  /  _]   /  ] ")
+print(" Y   __j _____ |  |  |  | _____ (   \_  /  [_   /  /  ")
+print(" |  T  ||     ||  |  |  ||     | \__  TY    _] /  /   ")
+print(" |  l_ |l_____jl  `  '  !l_____j /  \ ||   [_ /   \_  ")
+print(" |     |        \      /         \    ||     T\     | ")
+print(" l___,_j         \_/\_/           \___jl_____j \____j ")
+print("                                                      ")
+print(" ")
+
 # MEMBUAT KALKULATOR SEDERHANA DENGAN PYTHON
 
 # MENGGUNAKAN PENGULANGAN WHILE
